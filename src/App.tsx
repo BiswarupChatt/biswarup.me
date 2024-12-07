@@ -50,8 +50,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-      <p>Inspired by <a href="https://danabra.mov/" target="_blank" rel="noopener noreferrer">Dan Abramov</a>, who keeps it simple with HTML and CSS. So, I guess I’m just following his lead... while being a little too lazy to add anything more!</p>
-
+        <p>Inspired by <a href="https://danabra.mov/" target="_blank" rel="noopener noreferrer">Dan Abramov</a>, who keeps it simple with HTML. So, I guess I&apos;m just following his lead... while being a little too lazy to add anything more!</p>
       </footer>
     </div>
   );
