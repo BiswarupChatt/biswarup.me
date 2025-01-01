@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/linkedIn",
+        "destination": "https://www.linkedin.com/in/biswarupchatt/",
+        "permanent": true
+      }
+    ]
+  }
