@@ -9,11 +9,10 @@
       "source": "/github",
       "destination": "https://github.com/BiswarupChatt",
       "permanent": true
-    },
-    {
-      "source": "/cv",
-      "destination": "/cv",
-      "permanent": true
     }
+  ],
+  "rewrites": [
+    { "source": "/cv", "destination": "/" },
+    { "source": "/:path*", "destination": "/" }
   ]
 }
