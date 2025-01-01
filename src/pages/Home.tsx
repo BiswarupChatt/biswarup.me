@@ -43,6 +43,15 @@ export default function Home() {
         </ul>
       </section>
 
+      <section>
+        <h2>
+          View My Curriculam Vitae{" "}
+          <a href="/cv" rel="noopener noreferrer">
+            Here
+          </a>
+        </h2>
+      </section>
+
       <footer>
         <p>
           Inspired by{" "}
