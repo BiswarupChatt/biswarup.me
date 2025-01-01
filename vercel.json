@@ -1,9 +1,14 @@
 {
-    "redirects": [
-      {
-        "source": "/linkedIn",
-        "destination": "https://www.linkedin.com/in/biswarupchatt/",
-        "permanent": true
-      }
-    ]
-  }
+  "redirects": [
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/biswarupchatt/",
+      "permanent": true
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/BiswarupChatt",
+      "permanent": true
+    }
+  ]
+}
