@@ -10,9 +10,5 @@
       "destination": "https://github.com/BiswarupChatt",
       "permanent": true
     }
-  ],
-  "rewrites": [
-    { "source": "/cv", "destination": "/" },
-    { "source": "/:path*", "destination": "/" }
   ]
 }
