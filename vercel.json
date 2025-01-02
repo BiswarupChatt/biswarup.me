@@ -12,7 +12,7 @@
     },
     {
       "source": "/cv",
-      "destination": "/public/Biswarup-curriculum-vitae.pdf",
+      "destination": "/Biswarup-curriculum-vitae.pdf",
       "permanent": true
     }
   ]
