@@ -15,3 +15,11 @@ export function Github() {
 
   return null;
 }
+
+export function Cv() {
+  useEffect(() => {
+    window.location.href = "../../public/Biswarup-curriculum-vitae.pdf";
+  }, []);
+
+  return null;
+}

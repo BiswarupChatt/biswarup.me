@@ -46,7 +46,7 @@ export default function Home() {
       <section>
         <h2>
           View My Curriculam Vitae{" "}
-          <a href="/cv" rel="noopener noreferrer">
+          <a href="../../public/Biswarup-curriculum-vitae.pdf" rel="noopener noreferrer">
             Here
           </a>
         </h2>
