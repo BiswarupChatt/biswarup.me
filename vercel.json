@@ -9,6 +9,11 @@
       "source": "/github",
       "destination": "https://github.com/BiswarupChatt",
       "permanent": true
+    },
+    {
+      "source": "/cv",
+      "destination": "../../public/Biswarup-curriculum-vitae.pdf",
+      "permanent": true
     }
   ]
 }
