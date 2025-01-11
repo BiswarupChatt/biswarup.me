@@ -8,6 +8,7 @@ export default function AppRoute() {
       <Route path="/" element={<Home />} />
       <Route path="/linkedin" element={<LinkedIn />} />
       <Route path="/github" element={<Github />} />
+      <Route path="/my-fitness-hub" element={<Github />} />
       <Route path="/cv" element={<Cv />} />
     </Routes>
   );

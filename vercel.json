@@ -11,6 +11,11 @@
       "permanent": true
     },
     {
+      "source": "/my-fitness-hub",
+      "destination": "https://my-fitness-hub-fe.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/cv",
       "destination": "/Biswarup-curriculum-vitae.pdf",
       "permanent": true

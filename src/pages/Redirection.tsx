@@ -16,6 +16,14 @@ export function Github() {
   return null;
 }
 
+export function MyFitnessHub() {
+  useEffect(() => {
+    window.location.href = "https://my-fitness-hub-fe.vercel.app/";
+  }, []);
+
+  return null;
+}
+
 export function Cv() {
   useEffect(() => {
     window.location.href = "../../public/Biswarup-curriculum-vitae.pdf";
